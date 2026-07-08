@@ -29,19 +29,7 @@
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=sathaiahm&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=sathaiahm&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=devilzzz-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilzzz-lab&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devilzzz-lab&theme=tokyonight&hide_border=true" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devilzzz-lab&theme=tokyo-night&hide_border=true" width="90%"/>
-
-</div>
+---
 
 ## Connect with me
 
